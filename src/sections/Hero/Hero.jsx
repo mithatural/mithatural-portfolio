@@ -56,7 +56,7 @@ function Hero() {
             <img src={githubIcon} alt="Github Icon" />
           </a>
         </span>
-        <p>
+        <p className={styles.description}>
           Hi, I’m a Frontend Developer focused on building responsive,
           user-friendly web applications. I specialize in HTML, CSS, JavaScript,
           and React. Currently, I’m learning AWS to integrate cloud solutions
